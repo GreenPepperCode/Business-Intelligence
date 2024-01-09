@@ -8,12 +8,6 @@ Le mois janvier comporte un montant bcp trop élevé.
 Le maximum de transaction sur janvier montre une erreur de deux 00 (25000 au lieu de 250)
 
 6. Nombre de transactions annulées ?
+50 transactino on été annulées au total
 
-
-7. Faire un graphique qui affiche les transactions annulées par jour.
-
-
-8. Faire un graphique qui affiche les transactions annulées par heure.
-
-
-9.  Pour le pole KT-2700, combien de transactions ont été faites ? 
+1.  Pour le pole KT-2700, combien de transactions ont été faites ? 
