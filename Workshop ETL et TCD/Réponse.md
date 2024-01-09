@@ -9,5 +9,3 @@ Le maximum de transaction sur janvier montre une erreur de deux 00 (25000 au lie
 
 6. Nombre de transactions annulées ?
 50 transactino on été annulées au total
-
-1.  Pour le pole KT-2700, combien de transactions ont été faites ? 
